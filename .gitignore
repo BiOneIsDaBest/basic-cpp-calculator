@@ -1,0 +1,33 @@
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+build/
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio project files (optional – usually not needed on GitHub)
+*.vcxproj
+*.vcxproj.filters
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# Temporary files
+*.tmp
+*.cache
